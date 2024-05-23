@@ -1,0 +1,1 @@
+"EcoMedellín" aborda el problema de la mala gestión de residuos sólidos en Medellín. Su objetivo es crear un sistema que registre la cantidad de basura recogida, con funciones para registrar la recogida en cada comuna o contenedor, consultar datos, gestionar usuarios e interactuar con la ciudadanía.
